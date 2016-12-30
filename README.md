@@ -11,7 +11,7 @@ $ ./zscan.sh ip-list.txt output.txt
 Parsing the output file of zscan.sh in different ways, e.g. searching for webserver directory listings ("Index of /") including a recursive directory structure.
 
 ```shell
-$ ./zscan.sh --help
+$ ./zdata.py --help
 ```
 
 ## Disclaimer
